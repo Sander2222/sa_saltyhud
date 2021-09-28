@@ -1,3 +1,8 @@
+/*    Design by Sander#2211
+    Point help Discord
+    https://discord.gg/VBbS4mED
+    */
+
 var blackmoney = false;
 
 
