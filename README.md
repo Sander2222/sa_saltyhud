@@ -1,6 +1,6 @@
 # Redesign Saltychat Hud
 
-This is a ESX 1.1 money hud with a saltychat speak-system.
+This is a ESX 1.1 money hud with a saltychat speak-system. This includes a radio and a speak icon with saltychat synced.
 
 # installation
 
