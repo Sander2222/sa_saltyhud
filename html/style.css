@@ -1,0 +1,165 @@
+@font-face {
+    font-family: ZenDots-Regular;
+    src: url(ZenDots-Regular.ttf);
+}
+
+body {
+    display: block;
+}
+
+.money {
+    color: rgb(124, 18, 110);
+    position: absolute;
+    background-color: black;
+    right: 3.8vh;
+    top: 7vh;
+    padding: 0;
+    background-color: rgba(0, 0, 0, .5);
+    border-radius: 8vh;
+    display: block
+}
+
+.money div {
+    margin-right: 0, 7vh;
+    margin-top: 0, 7vh;
+    color: rgb(124, 18, 110);
+    font-size: 25px;
+    float: right;
+    font-family: ZenDots-Regular;
+    padding: .7vh 2.5vh
+}
+
+.schwarzmoney {
+    color: rgb(233, 0, 31);
+    position: absolute;
+    background-color: black;
+    right: 3.8vh;
+    top: 7vh;
+    margin-top: 50px;
+    padding: 0;
+    background-color: rgba(0, 0, 0, .5);
+    border-radius: 8vh;
+    display: block;
+    font-size: 25px;
+    font-family: ZenDots-Regular;
+}
+
+.schwarzmoney div {
+    color: rgb(233, 0, 31);
+    font-size: 25px;
+    float: right;
+    font-family: ZenDots-Regular;
+    padding: .7vh 2.5vh
+}
+
+.voice1 {
+    position: absolute;
+    display: none;
+    right: 3.9vh;
+    top: 18vh;
+    height: 3.5vh;
+}
+
+.voice2 {
+    position: absolute;
+    display: none;
+    right: 3.9vh;
+    top: 18vh;
+    height: 3.5vh;
+}
+
+.voice3 {
+    position: absolute;
+    display: none;
+    right: 3.9vh;
+    top: 18vh;
+    height: 3.5vh;
+}
+
+.voicemuted {
+    position: absolute;
+    display: none;
+    right: 3.9vh;
+    top: 18vh;
+    height: 3.5vh;
+}
+
+.voice4 {
+    position: absolute;
+    display: none;
+    right: 3.9vh;
+    top: 18vh;
+    height: 3.5vh;
+}
+
+.voice1black {
+    position: absolute;
+    display: none;
+    right: 3.9vh;
+    top: 18vh;
+    height: 3.5vh;
+}
+
+.voice2black {
+    position: absolute;
+    display: none;
+    right: 3.9vh;
+    top: 18vh;
+    height: 3.5vh;
+}
+
+.voice3black {
+    position: absolute;
+    display: none;
+    right: 3.9vh;
+    top: 18vh;
+    height: 3.5vh;
+}
+
+.voicemutedblack {
+    position: absolute;
+    display: none;
+    right: 3.9vh;
+    top: 18vh;
+    height: 3.5vh;
+}
+
+.voice4black {
+    position: absolute;
+    display: none;
+    right: 3.9vh;
+    top: 18vh;
+    height: 3.5vh;
+}
+
+.funk {
+    position: absolute;
+    display: none;
+    right: 9.5vh;
+    top: 18vh;
+    height: 3.4vh;
+}
+
+.funke {
+    position: absolute;
+    display: none;
+    right: 9.5vh;
+    top: 18vh;
+    height: 3.4vh;
+}
+
+.funkblack {
+    position: absolute;
+    display: none;
+    right: 9.5vh;
+    top: 18vh;
+    height: 3.4vh;
+}
+
+.funkeblack {
+    position: absolute;
+    display: none;
+    right: 9.5vh;
+    top: 18vh;
+    height: 3.4vh;
+}
